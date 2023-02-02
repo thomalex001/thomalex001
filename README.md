@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex!
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently strengthening my skills in REACT
 - 💞️ I’m looking to collaborate on anything code related!
 - 📫 How to reach me thomasalex001
 
