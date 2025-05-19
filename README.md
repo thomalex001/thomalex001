@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex!
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently strengthening my skills in REACT
+- 👀 I’m interested in Tech stuff!
+- 🌱 I’m currently strengthening my skills in Svelte!
 - 💞️ I’m looking to collaborate on anything code related!
 - 📫 How to reach me thomasalex001
 
